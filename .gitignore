@@ -1,2 +1,3 @@
-data/
+data/*
+!data/Conversation_Data
 scripts/.ipynb_checkpoints/
